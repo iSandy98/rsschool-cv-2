@@ -33,6 +33,6 @@ My strengths:
 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ####Languages
-* English - pre-intermediate
+* English - pre-intermediate(B2 in progress)
 * Russian - native speaker
 * Yakut - native speaker
